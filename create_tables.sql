@@ -6,7 +6,6 @@ CREATE TABLE tbl0 (
     c04 FLOAT
     );
 
-
 CREATE TABLE tbl1 (
     K0  CHAR(1),
     K1  INT,
@@ -193,4 +192,3 @@ INSERT INTO tbl2 VALUES
     (22,612.05,600,'2018-11-30',0.22,'VV-MB'),
     (24,903.38,900,'2017-11-10',0.45,'MV-XX'),
     (28,213.67,600,'2018-10-06',0.38,'XM-MC');
-    
