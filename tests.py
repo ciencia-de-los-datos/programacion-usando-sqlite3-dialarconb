@@ -77,6 +77,7 @@ def test_05():
     }
 
 
+
 def test_06():
     conn, _ = load_data()
     with open("pregunta_06.sql", encoding="utf-8") as file:
