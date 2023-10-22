@@ -6,7 +6,6 @@ CREATE TABLE tbl0 (
     c04 FLOAT
     );
 
-
 CREATE TABLE tbl1 (
     K0  CHAR(1),
     K1  INT,
